@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MikhailSergeevMSC/Control-System/issues"
   },
-  "homepage": "https://github.com/MikhailSergeevMSC/Control-System#readme"
+  "homepage": "https://github.com/MikhailSergeevMSC/Control-System#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.7"
+  }
 }
